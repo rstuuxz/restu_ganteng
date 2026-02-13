@@ -1,4 +1,4 @@
-name: Deploy Website CI/CD
+name: my website
 
 on:
   push:
